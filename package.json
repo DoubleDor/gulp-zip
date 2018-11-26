@@ -32,7 +32,7 @@
     "concat-stream": "^1.4.7",
     "gulp-util": "^3.0.0",
     "through2": "^2.0.1",
-    "yazl": "^2.1.0"
+    "yazl": "2.4.3"
   },
   "devDependencies": {
     "decompress-unzip": "*",
